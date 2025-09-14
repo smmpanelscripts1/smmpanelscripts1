@@ -1,5 +1,5 @@
 # 🚀 SMM Panel Script | Social Media Panel Software | PHP & API Based SMM Script
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=smmpanelscripts1.smmpanelscripts1)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=smmpanelscripts1)
 
 
 ## 📌 About
